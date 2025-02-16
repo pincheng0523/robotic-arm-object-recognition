@@ -1,2 +1,1 @@
-# robotic-arm-object-recognition
- Object recognition for robotic arms using generative AI and domain randomization for sim-to-real transfer.
+ckpts連結:https://drive.google.com/file/d/1xtNYy8-cZ8coKs6dPJmYaFaJ07IAE_iX/view?usp=sharing
