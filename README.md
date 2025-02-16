@@ -61,7 +61,8 @@
 
 ## **📌 研究貢獻**
 ✅ 提出一種結合 **生成式 AI 模型 + 數據增強** 的新方法來實現 **領域隨機化**  
-✅ 測試 **Robosuite, Pix2pix, StyleGAN3, YOLOv5** 在不同資料集上的表現  
+✅ 測試不同資料集上的表現
+✅ 結合不同模型達成實驗結果
 ✅ **驗證生成式 AI 可有效幫助機器手臂物件辨識，並應用於實際抓取任務**  
 
 ---
@@ -78,9 +79,3 @@
 🔗 **Robosuite (模擬器)** - [GitHub Repository](https://github.com/ARISE-Initiative/robosuite)  
 🔗 **StyleGAN3 (物體圖像生成)** - [GitHub Repository](https://github.com/NVlabs/stylegan3)  
 🔗 **YOLOv5 (物件偵測)** - [GitHub Repository](https://github.com/ultralytics/yolov5)  
-
----
-
-這樣的 README 可以讓讀者快速了解你的研究重點，並附上 GitHub 連結供進一步參考。
-
-你覺得這樣的結構清楚嗎？有沒有需要調整的地方？🚀
