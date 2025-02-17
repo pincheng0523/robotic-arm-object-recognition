@@ -2,7 +2,7 @@
 🚀 **機器手臂物件辨識：使用生成式 AI 進行資料擴增來實現領域隨機化**
 
 ## **🔍 專案簡介**
-本研究探討如何透過 **生成式 AI 模型** 來生成資料。利用資料擴增增強訓練數據，以提升機器手臂的物件辨識能力，並利用 **領域隨機化 (Domain Randomization)** 技術，減少從模擬到現實的落差。本研究透過以下四種技術進行資料擴增與訓練：
+本研究探討如何透過 **生成式 AI 模型** 來生成資料。利用數據增強強化訓練數據，以提升機器手臂的物件辨識能力，並利用 **領域隨機化 (Domain Randomization)** 技術，減少從模擬到現實的落差。本研究透過以下四種技術進行資料擴增與訓練：
 
 ✅ **[Pix2pix](https://github.com/pincheng0523/robotic-arm-object-recognition/tree/main/PIx2pix)**（背景轉換）  
 ✅ **[Robosuite](https://github.com/pincheng0523/robotic-arm-object-recognition/tree/main/Robosuite)**（模擬器生成數據）  
